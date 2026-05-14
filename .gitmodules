@@ -1,0 +1,3 @@
+[submodule "content/drakkenheim"]
+	path = content/drakkenheim
+	url = https://github.com/RicCampos/drakkenheim-campaign-chronicle.git
